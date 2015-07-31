@@ -3,7 +3,7 @@
 Syntax highlighting for BinPAC++/Spicy grammar files (pac2).
 See http://www.icir.org/hilti/ for details.
 
-Currently, the syntax highlighting is very basic.
+Currently, the syntax highlighting is very basic. It's my first Vim plugin. Contributions welcome!
 
 ## Installation
 
