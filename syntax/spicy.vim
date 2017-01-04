@@ -3,12 +3,18 @@ syn region spicyComment start="#" end="$"
 syn keyword spicyImport module import
 syn keyword spicyKeyword
 	\ type
+	\ const
+	\ else
 	\ export
+	\ global
 	\ if
+	\ in
+	\ mod
 	\ switch
 	\ on
 	\ var
 syn keyword spicyStatement print
+	\ delete
 syn keyword spicyType
 	\ addr
 	\ bitfield
@@ -18,6 +24,10 @@ syn keyword spicyType
 	\ enum
 	\ function
 	\ int
+	\ int8
+	\ int16
+	\ int32
+	\ int64
 	\ uint8
 	\ uint16
 	\ uint32
