@@ -1,6 +1,6 @@
 # vim-spicy
 
-Syntax highlighting for BinPAC++/Spicy grammar files (pac2).
+Syntax highlighting for BinPAC++/Spicy grammar files (.pac2/.spicy).
 See http://www.icir.org/hilti/ for details.
 
 Currently, the syntax highlighting is very basic. It's my first Vim plugin. Contributions welcome!
